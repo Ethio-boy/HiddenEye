@@ -295,7 +295,7 @@ def mainMenu():
 {3}[{2} PHISHING-KEYLOGGER-INFORMATION COLLECTOR-ALL_IN_ONE_TOOL-SOCIALENGINEERING {3}]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~''').format(MAIN3, MAIN4, MAIN2, MAIN0))
     print (_("------------------------\nSELECT ANY ATTACK VECTOR FOR YOUR VICTIM:\n------------------------").format(MAIN0, MAIN2))
-    print (_(" {0}[{1}1{0}]{1} Facebook        {0}[{1}10{0}]{1} Yahoo          {0}[{1}19{0}]{1} Pinterest      {0}[{1}28{0}]{1} DropBox ").format(MAIN0, MAIN2))
+    print (_(" {0}[{1}1{0}]{1} fuckFB        {0}[{1}10{0}]{1} Yahoo          {0}[{1}19{0}]{1} Pinterest      {0}[{1}28{0}]{1} DropBox ").format(MAIN0, MAIN2))
     print (_(" {0}[{1}2{0}]{1} Google          {0}[{1}11{0}]{1} Twitch         {0}[{1}20{0}]{1} ProtonMail     {0}[{1}29{0}]{1} eBay").format(MAIN0, MAIN2))
     print (_(" {0}[{1}3{0}]{1} LinkedIn        {0}[{1}12{0}]{1} Microsoft      {0}[{1}21{0}]{1} Spotify        {0}[{1}30{0}]{1} MySpace").format(MAIN0, MAIN2))
     print (_(" {0}[{1}4{0}]{1} GitHub          {0}[{1}13{0}]{1} Steam          {0}[{1}22{0}]{1} Quora          {0}[{1}31{0}]{1} PayPal").format(MAIN0, MAIN2))
